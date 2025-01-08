@@ -3,7 +3,7 @@
 package userservice
 
 import (
-	user "github.com/LXJ0000/go-kitex-rpc-gen/rpc_gen/kitex_gen/user"
+	user "github.com/LXJ0000/go-kitex-rpc-gen/kitex_gen/user"
 	server "github.com/cloudwego/kitex/server"
 )
 

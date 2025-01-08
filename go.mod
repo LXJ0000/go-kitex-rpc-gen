@@ -1,4 +1,4 @@
-module github.com/LXJ0000/go-kitex-rpc-gen/rpc_gen
+module github.com/LXJ0000/go-kitex-rpc-gen
 
 go 1.23.3
 
